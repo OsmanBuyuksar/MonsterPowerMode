@@ -1,5 +1,7 @@
 @ECHO OFF
-Rem burası yorum satırı asagidaki kod calisirken kodların gösterilmesini kapatıyor bu kod laptop moduna göre güç seçeneklerini degistiriyor
+Rem burası yorum satırı asagidaki kod calisirken kodların gösterilmesini kapatıyor bu kod laptop moduna göre guc ayarlarini degistiriyor
+
+Rem asagidaki id lerin laptopa gore degistirilmesi gerekiyor
 
 set pil=7fee23b1-5dd8-465d-9d71-fc863fd27525
 set dengeli=381b4222-f694-41f0-9685-ff5bb260df2e
